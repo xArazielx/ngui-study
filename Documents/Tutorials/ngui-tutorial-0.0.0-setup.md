@@ -8,14 +8,14 @@ Unity3D 프리 버전은 공식 홈페이지 <http://unity3d.com/unity/download/
 
 Unity3D 를 실행한 다음 메인 메뉴 > Assets > Import Package > `Custome Package` 를 선택합니다.
 
-![custom_package](Images/editor.menu.assets.import_package.custom_package.png)
+![custom_package](Images/editor.menu.assets.import_package.custom_package.png?raw=true)
 
 다운로드 받은 `ngui_free.unitypackage` 파일을 선택하면 임포트 다이얼로그가 표시됩니다.
 
-![custom_package](Images/editor.import_package.ngui.png)
+![custom_package](Images/editor.import_package.ngui.png?raw=true)
 
 오른쪽 아래 Import 를 클릭하면 Project 패널에 NGUI 플러그인이 등록됩니다.
 
-![custom_package](Images/editor.project.ngui.png)
+![custom_package](Images/editor.project.ngui.png?raw=true)
 
 
