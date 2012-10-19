@@ -134,5 +134,5 @@ Camera 컴포넌트의 Clear Flags 가 **Depth only** 로 되어있는 것을 �
 짝짝짝 >ㅁ<)~
 
 
-
+[이전](./ngui-tutorial-0.0.0-setup.md)
 
