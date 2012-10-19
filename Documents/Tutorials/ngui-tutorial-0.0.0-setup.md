@@ -31,6 +31,7 @@ Unity3D 를 실행한 다음 메인 메뉴 > Assets > Import Package > `Custome 
 
 오브젝트 계층 구조를 보면 Main Camera 와 UI Root (2D) 아래 Camera 이렇게 2개의 카메라가 있습니다.
 Main Camera 는 3D 공간을 위한 카메라이고, UI Root (2D) 아래 카메라는 2D 공간을 위한 카메라입니다.
+액티브된 카메라만큼 화면에 중첩 렌더링이 되기 때문에 3D 공간을 사용하지 않고 2D 기반 게임을 만든다면 `Main Camera`는 삭제하는 것이 좋습니다.
 
-3D 공간을 사용하지 않고 2D 기반 게임을 만든다면 `Main Camera`는 삭제해야 합니다.
+[다음](./ngui-tutorial-0.1.0-hud.md)
 
