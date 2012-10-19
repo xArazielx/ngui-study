@@ -19,3 +19,18 @@ Unity3D 를 실행한 다음 메인 메뉴 > Assets > Import Package > `Custome 
 ![custom_package](Images/editor.project.ngui.png?raw=true)
 
 
+## NGUI 시작하기
+
+메인 메뉴 > NGUI > `Create a New UI`를 선택합니다.
+
+![custom_package](Images/editor.menu.ngui.create_a_new_ui.png?raw=true)
+
+특별한 설정 없이 `Create Your UI`버튼을 클릭하면 NGUI 오브젝트가 생성됩니다. 
+
+![custom_package](Images/editor.hierachy.ngui.png?raw=true)
+
+오브젝트 계층 구조를 보면 Main Camera 와 UI Root (2D) 아래 Camera 이렇게 2개의 카메라가 있습니다.
+Main Camera 는 3D 공간을 위한 카메라이고, UI Root (2D) 아래 카메라는 2D 공간을 위한 카메라입니다.
+
+3D 공간을 사용하지 않고 2D 기반 게임을 만든다면 `Main Camera`는 삭제해야 합니다.
+
